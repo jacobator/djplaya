@@ -1,9 +1,9 @@
 # djplaya
 React-based client-side mp3 player
 
-![Upload Manager](https://raw.githubusercontent.com/jacobator/bsa-tooling-task/master/screenshots/loader.png)
+![Upload Manager](https://raw.githubusercontent.com/jacobator/djplaya/master/screenshots/loader.png)
 
-![DJ Controller](https://raw.githubusercontent.com/jacobator/bsa-tooling-task/master/screenshots/contoller.png)
+![DJ Controller](https://raw.githubusercontent.com/jacobator/djplaya/master/screenshots/contoller.png)
 
 # Installation
 ```
