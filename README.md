@@ -25,3 +25,11 @@ npm run build
 cd dist
 ls
 ```
+
+or
+
+```
+npm run build:bs
+```
+
+to build and serve static files from localhost:3000
