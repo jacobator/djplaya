@@ -1,0 +1,31 @@
+.tracks-player {
+	padding: 5px;
+
+	.controls {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.player-display {
+		display: flex;
+		padding: 5px;
+		border: 1px solid #aaa;
+
+		.track-number {
+			border: 1px solid #aaa;
+			padding: 5px;
+			width: 60px;
+			text-align: center;
+			margin-right: 5px;
+		}
+
+		.track-name {
+			border: 1px solid #aaa;
+			padding: 5px;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			width: calc(100% - 30px);
+		}
+	}
+}

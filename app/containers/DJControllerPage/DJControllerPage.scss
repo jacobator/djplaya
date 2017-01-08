@@ -1,0 +1,31 @@
+.dj-controller-page {
+	min-width: 900px;
+
+	.players {
+		display: flex;
+		margin-bottom: 15px;
+
+		.player {
+			width: 50%;
+		}
+	}
+
+	.common-controls {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 15px;
+	}
+
+	.controls {
+		text-align: center;
+
+		.reset-warning {
+			color: #f44336;
+			font-size: 10px;
+		}
+	}
+}
+
+#app {
+	overflow: auto;
+}
